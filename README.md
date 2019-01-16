@@ -25,5 +25,5 @@ This year my resolution is to finish some personal project.
 - [ ] [emmaunel/EasyTeleprompter](https://github.com/emmaunel/EasyTeleprompter)
 
 ## Resolution 4 💪🏼 ![](https://img.shields.io/badge/progress-0%25-red.svg)
-Go to the gym every week day. Gain some muscles
+Go to the gym 3 times a week. Gain some muscles
 
