@@ -15,6 +15,7 @@ This year my my resolution is that I will read at least 5 books.
 ## Resolution 2 👨🏻‍💻 ![](https://img.shields.io/badge/progress-0%25-red.svg)
 
 This year my resolution is that I will work on 12 open source projects
+Done 2 now. 10 to go.
 
 
 
