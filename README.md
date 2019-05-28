@@ -22,8 +22,8 @@ Done 2 now. 10 to go.
 
 ## Resolution 3 ✈️ ![](https://img.shields.io/badge/progress-0%25-red.svg)
 This year my resolution is to finish some personal project.
-- [ ] [emmaunel/RITSEC_Login](https://github.com/emmaunel/RITSEC_Login)
-- [ ] [emmaunel/Android2Python](https://github.com/emmaunel/Android2Python)
+- [ ] [emmaunel/RITSEC_Login](https://github.com/emmaunel/RITSEC_Login) --- abandoned
+- [x] [emmaunel/Android2Python](https://github.com/emmaunel/Android2Python)
 - [ ] [emmaunel/EasyTeleprompter](https://github.com/emmaunel/EasyTeleprompter)
 
 ## Resolution 4 💪🏼 ![](https://img.shields.io/badge/progress-0%25-red.svg)
