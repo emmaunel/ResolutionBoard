@@ -10,7 +10,8 @@ This year my my resolution is that I will read at least 5 books.
 - [ ] [What if?](https://www.amazon.com/What-If-Scientific-Hypothetical-Questions/dp/0544272994/) - *Randall Munroe*
 - [ ] [At the Existentialist Cafe](https://www.amazon.com/Existentialist-Café-Cocktails-Jean-Paul-Merleau-Ponty/dp/1590518896/) - *Sarah Bakewell*
 - [ ] [Breaking and Entering: The extraoriginal story of a hacker called Alien](https://www.amazon.com/Breaking-Entering-Extraordinary-Hacker-Called/dp/0544903218) *Jeremy N. Smith*
-- [ ] [Are you Smart Enough to work at Google](https://www.amazon.com/Are-Smart-Enough-Work-Google/dp/0316099988) - *William Poundstone*
+
+~~- [ ] [Are you Smart Enough to work at Google](https://www.amazon.com/Are-Smart-Enough-Work-Google/dp/0316099988) - *William Poundstone*~~
 
 ## Resolution 2 👨🏻‍💻 ![](https://img.shields.io/badge/progress-0%25-red.svg)
 
